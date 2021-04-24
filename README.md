@@ -1,1 +1,2 @@
 # REGISTRATION-SYSTEM
+Desktop Application developed in C++ in which a University System is emulated, allows creation of student accounts, which then are allowed to choose a specific career. All career pensum are created by an administrator user. After choosing a career, students are allowed to enroll, first available courses in the pensum. After that the system checks if the courses have been passed in order to show and let students enroll the next unlocked courses.
